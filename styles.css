@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
-:root { --ink: #202034; --muted: #707087; --paper: #f8f8f5; --surface: #ffffff; --indigo: #6366f1; --indigo-dark: #4f46e5; --green: #10b981; --yellow: #f5dc72; --line: rgba(32,32,52,.12); --shadow: 0 24px 60px rgba(44,43,74,.12); --heading: 'Space Grotesk', sans-serif; --body: 'DM Sans', sans-serif; }
+:root { --ink: #202034; --muted: #707087; --paper: #fff8ed; --surface: #fffdf7; --indigo: #6366f1; --indigo-dark: #4f46e5; --green: #10b981; --yellow: #f5dc72; --line: rgba(32,32,52,.12); --shadow: 0 24px 60px rgba(44,43,74,.12); --heading: 'Space Grotesk', sans-serif; --body: 'DM Sans', sans-serif; }
 [data-theme="dark"] { --ink: #f7f7f4; --muted: #a7a6b9; --paper: #171827; --surface: #222337; --line: rgba(255,255,255,.12); --shadow: 0 24px 60px rgba(0,0,0,.25); }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
